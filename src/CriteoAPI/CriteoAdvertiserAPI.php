@@ -1,5 +1,7 @@
 <?php
 
+namespace KicKiss\CriteoAPI;
+
 class clientLogin
 {
     public $username; // string

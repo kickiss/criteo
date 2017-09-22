@@ -18,6 +18,6 @@
         }
     ],
     "autoload": {
-        "classmap": ["src/CriteoAdvertiserAPI.php"]
+        "classmap": ["src/CriteoAPI/CriteoAdvertiserAPI.php"]
     }
 }
