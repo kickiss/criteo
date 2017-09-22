@@ -1,0 +1,8 @@
+{
+    "name": "kickiss/criteo",
+    "type": "library",
+    "description": "Criteo API",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
