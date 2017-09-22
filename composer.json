@@ -16,5 +16,8 @@
             "name": "Criteo",
             "homepage": "https://support.criteo.com"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": ["src/CriteoAdvertiserAPI.php"]
+    }
 }
