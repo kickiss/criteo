@@ -1,7 +1,5 @@
 <?php
 
-namespace Htg\ExternalAPI\CriteoAPI;
-
 class clientLogin
 {
     public $username; // string
